@@ -1,0 +1,14 @@
+{
+  "name": "ROCK RISE",
+  "short_name": "ROCK RISE",
+  "description": "Build the band. Own the night.",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a080e",
+  "theme_color": "#16121C",
+  "start_url": "./",
+  "icons": [
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
