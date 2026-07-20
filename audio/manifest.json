@@ -1241,6 +1241,50 @@
       "duration_s": 60.02,
       "bytes": 841053,
       "note": "crossfade rotation, -17 LUFS, no grid"
+    },
+    {
+      "genre": "jazz",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/jazz-hype.mp3",
+      "bpm_prompted": 130,
+      "bpm": 129.95,
+      "first_beat_ms": 279,
+      "loop_start_s": 0.279,
+      "loop_end_s": 44.604
+    },
+    {
+      "genre": "jazz",
+      "group": "anthem",
+      "vocal": true,
+      "file": "audio/gigs/jazz-anthem.mp3",
+      "bpm_prompted": 110,
+      "bpm": 109.98,
+      "first_beat_ms": 58,
+      "loop_start_s": 0.058,
+      "loop_end_s": 43.703
+    },
+    {
+      "genre": "jazz",
+      "group": "soft",
+      "vocal": true,
+      "file": "audio/gigs/jazz-soft.mp3",
+      "bpm_prompted": 96,
+      "bpm": 95.98,
+      "first_beat_ms": 46,
+      "loop_start_s": 0.046,
+      "loop_end_s": 42.555
+    },
+    {
+      "genre": "jazz",
+      "group": "weird",
+      "vocal": true,
+      "file": "audio/gigs/jazz-weird.mp3",
+      "bpm_prompted": 118,
+      "bpm": 117.98,
+      "first_beat_ms": 23,
+      "loop_start_s": 0.023,
+      "loop_end_s": 44.778
     }
   ]
 }
