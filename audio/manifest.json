@@ -1303,10 +1303,10 @@
       "vocal": true,
       "file": "audio/gigs/country-anthem.mp3",
       "bpm_prompted": 100,
-      "bpm": 99.98,
-      "first_beat_ms": 23,
-      "loop_start_s": 0.023,
-      "loop_end_s": 43.232
+      "bpm": 100,
+      "first_beat_ms": 35,
+      "loop_start_s": 0.035,
+      "loop_end_s": 43.235
     },
     {
       "genre": "latin",
@@ -1329,6 +1329,182 @@
       "first_beat_ms": 1252,
       "loop_start_s": 1.252,
       "loop_end_s": 43.406
+    },
+    {
+      "genre": "hiphop",
+      "group": "soft",
+      "vocal": true,
+      "file": "audio/gigs/hiphop-soft.mp3",
+      "bpm_prompted": 84,
+      "bpm": 84,
+      "first_beat_ms": 738,
+      "loop_start_s": 0.738,
+      "loop_end_s": 43.595
+    },
+    {
+      "genre": "hiphop",
+      "group": "anthem",
+      "vocal": true,
+      "file": "audio/gigs/hiphop-anthem.mp3",
+      "bpm_prompted": 90,
+      "bpm": 90,
+      "first_beat_ms": 8023,
+      "loop_start_s": 8.023,
+      "loop_end_s": 42.69
+    },
+    {
+      "genre": "hiphop",
+      "group": "weird",
+      "vocal": false,
+      "file": "audio/gigs/hiphop-weird.mp3",
+      "bpm_prompted": 88,
+      "bpm": 88,
+      "first_beat_ms": 23,
+      "loop_start_s": 0.023,
+      "loop_end_s": 43.66
+    },
+    {
+      "genre": "hiphop",
+      "group": "weird",
+      "vocal": false,
+      "file": "audio/gigs/hiphop-classic.mp3",
+      "bpm_prompted": 90,
+      "bpm": 90,
+      "first_beat_ms": 23,
+      "loop_start_s": 0.023,
+      "loop_end_s": 42.69
+    },
+    {
+      "genre": "country",
+      "group": "soft",
+      "vocal": true,
+      "file": "audio/gigs/country-soft.mp3",
+      "bpm_prompted": 72,
+      "bpm": 72,
+      "first_beat_ms": 46,
+      "loop_start_s": 0.046,
+      "loop_end_s": 43.38
+    },
+    {
+      "genre": "country",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/country-hype.mp3",
+      "bpm_prompted": 120,
+      "bpm": 119.98,
+      "first_beat_ms": 523,
+      "loop_start_s": 0.523,
+      "loop_end_s": 44.532
+    },
+    {
+      "genre": "country",
+      "group": "weird",
+      "vocal": false,
+      "file": "audio/gigs/country-weird.mp3",
+      "bpm_prompted": 110,
+      "bpm": 109.96,
+      "first_beat_ms": 35,
+      "loop_start_s": 0.035,
+      "loop_end_s": 43.689
+    },
+    {
+      "genre": "country",
+      "group": "weird",
+      "vocal": false,
+      "file": "audio/gigs/country-classic.mp3",
+      "bpm_prompted": 96,
+      "bpm": 96,
+      "first_beat_ms": 3785,
+      "loop_start_s": 3.785,
+      "loop_end_s": 43.785
+    },
+    {
+      "genre": "latin",
+      "group": "soft",
+      "vocal": true,
+      "file": "audio/gigs/latin-soft.mp3",
+      "bpm_prompted": 76,
+      "bpm": 76,
+      "first_beat_ms": 4029,
+      "loop_start_s": 4.029,
+      "loop_end_s": 41.923
+    },
+    {
+      "genre": "latin",
+      "group": "anthem",
+      "vocal": true,
+      "file": "audio/gigs/latin-anthem.mp3",
+      "bpm_prompted": 100,
+      "bpm": 100,
+      "first_beat_ms": 23,
+      "loop_start_s": 0.023,
+      "loop_end_s": 43.223
+    },
+    {
+      "genre": "latin",
+      "group": "weird",
+      "vocal": false,
+      "file": "audio/gigs/latin-weird.mp3",
+      "bpm_prompted": 100,
+      "bpm": 99.98,
+      "first_beat_ms": 23,
+      "loop_start_s": 0.023,
+      "loop_end_s": 43.232
+    },
+    {
+      "genre": "latin",
+      "group": "weird",
+      "vocal": false,
+      "file": "audio/gigs/latin-classic.mp3",
+      "bpm_prompted": 96,
+      "bpm": 95.98,
+      "first_beat_ms": 985,
+      "loop_start_s": 0.985,
+      "loop_end_s": 43.494
+    },
+    {
+      "genre": "reggae",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/reggae-hype.mp3",
+      "bpm_prompted": 130,
+      "bpm": 130,
+      "first_beat_ms": 485,
+      "loop_start_s": 0.485,
+      "loop_end_s": 44.792
+    },
+    {
+      "genre": "reggae",
+      "group": "anthem",
+      "vocal": true,
+      "file": "audio/gigs/reggae-anthem.mp3",
+      "bpm_prompted": 78,
+      "bpm": 78.06,
+      "first_beat_ms": 6976,
+      "loop_start_s": 6.976,
+      "loop_end_s": 43.869
+    },
+    {
+      "genre": "reggae",
+      "group": "weird",
+      "vocal": false,
+      "file": "audio/gigs/reggae-weird.mp3",
+      "bpm_prompted": 74,
+      "bpm": 74,
+      "first_beat_ms": 23,
+      "loop_start_s": 0.023,
+      "loop_end_s": 42.185
+    },
+    {
+      "genre": "reggae",
+      "group": "weird",
+      "vocal": false,
+      "file": "audio/gigs/reggae-classic.mp3",
+      "bpm_prompted": 80,
+      "bpm": 79.98,
+      "first_beat_ms": 23,
+      "loop_start_s": 0.023,
+      "loop_end_s": 42.032
     }
   ]
 }
