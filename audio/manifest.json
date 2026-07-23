@@ -1505,6 +1505,237 @@
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
       "loop_end_s": 42.032
+    },
+    {
+      "genre": "jazz",
+      "group": "soft",
+      "vocal": true,
+      "file": "audio/gigs/jazz-soft2.mp3",
+      "bpm_prompted": 92,
+      "bpm": 92,
+      "first_beat_ms": 35,
+      "loop_start_s": 0.035,
+      "loop_end_s": 44.383
+    },
+    {
+      "genre": "jazz",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/jazz-hype2.mp3",
+      "bpm_prompted": 138,
+      "bpm": 138,
+      "first_beat_ms": 974,
+      "loop_start_s": 0.974,
+      "loop_end_s": 44.452
+    },
+    {
+      "genre": "jazz",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/jazz-hype3.mp3",
+      "bpm_prompted": 150,
+      "bpm": 149.97,
+      "first_beat_ms": 17650,
+      "loop_start_s": 17.65,
+      "loop_end_s": 44.855
+    },
+    {
+      "genre": "jazz",
+      "group": "anthem",
+      "vocal": true,
+      "file": "audio/gigs/jazz-anthem2.mp3",
+      "bpm_prompted": 120,
+      "bpm": 120.02,
+      "first_beat_ms": 279,
+      "loop_start_s": 0.279,
+      "loop_end_s": 44.27
+    },
+    {
+      "genre": "jazz",
+      "group": "weird",
+      "vocal": false,
+      "file": "audio/gigs/jazz-weird2.mp3",
+      "bpm_prompted": 100,
+      "bpm": 99.94,
+      "first_beat_ms": 3625,
+      "loop_start_s": 3.625,
+      "loop_end_s": 44.45
+    },
+    {
+      "genre": "hiphop",
+      "group": "soft",
+      "vocal": true,
+      "file": "audio/gigs/hiphop-soft2.mp3",
+      "bpm_prompted": 80,
+      "bpm": 79.98,
+      "first_beat_ms": 773,
+      "loop_start_s": 0.773,
+      "loop_end_s": 42.782
+    },
+    {
+      "genre": "hiphop",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/hiphop-hype2.mp3",
+      "bpm_prompted": 96,
+      "bpm": 96,
+      "first_beat_ms": 23,
+      "loop_start_s": 0.023,
+      "loop_end_s": 45.023
+    },
+    {
+      "genre": "hiphop",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/hiphop-hype3.mp3",
+      "bpm_prompted": 100,
+      "bpm": 99.98,
+      "first_beat_ms": 23,
+      "loop_start_s": 0.023,
+      "loop_end_s": 43.232
+    },
+    {
+      "genre": "hiphop",
+      "group": "anthem",
+      "vocal": true,
+      "file": "audio/gigs/hiphop-anthem2.mp3",
+      "bpm_prompted": 88,
+      "bpm": 87.98,
+      "first_beat_ms": 372,
+      "loop_start_s": 0.372,
+      "loop_end_s": 44.017
+    },
+    {
+      "genre": "country",
+      "group": "soft",
+      "vocal": true,
+      "file": "audio/gigs/country-soft2.mp3",
+      "bpm_prompted": 68,
+      "bpm": 68,
+      "first_beat_ms": 8893,
+      "loop_start_s": 8.893,
+      "loop_end_s": 44.187
+    },
+    {
+      "genre": "country",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/country-hype2.mp3",
+      "bpm_prompted": 128,
+      "bpm": 128.03,
+      "first_beat_ms": 503,
+      "loop_start_s": 0.503,
+      "loop_end_s": 43.62
+    },
+    {
+      "genre": "country",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/country-hype3.mp3",
+      "bpm_prompted": 116,
+      "bpm": 115,
+      "first_beat_ms": 1090,
+      "loop_start_s": 1.09,
+      "loop_end_s": 44.915
+    },
+    {
+      "genre": "country",
+      "group": "anthem",
+      "vocal": true,
+      "file": "audio/gigs/country-anthem2.mp3",
+      "bpm_prompted": 96,
+      "bpm": 96,
+      "first_beat_ms": 464,
+      "loop_start_s": 0.464,
+      "loop_end_s": 42.964
+    },
+    {
+      "genre": "latin",
+      "group": "soft",
+      "vocal": true,
+      "file": "audio/gigs/latin-soft2.mp3",
+      "bpm_prompted": 80,
+      "bpm": 79.98,
+      "first_beat_ms": 773,
+      "loop_start_s": 0.773,
+      "loop_end_s": 42.782
+    },
+    {
+      "genre": "latin",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/latin-hype2.mp3",
+      "bpm_prompted": 92,
+      "bpm": 92.02,
+      "first_beat_ms": 23,
+      "loop_start_s": 0.023,
+      "loop_end_s": 44.362
+    },
+    {
+      "genre": "latin",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/latin-hype3.mp3",
+      "bpm_prompted": 100,
+      "bpm": 100.02,
+      "first_beat_ms": 325,
+      "loop_start_s": 0.325,
+      "loop_end_s": 43.516
+    },
+    {
+      "genre": "latin",
+      "group": "anthem",
+      "vocal": true,
+      "file": "audio/gigs/latin-anthem2.mp3",
+      "bpm_prompted": 104,
+      "bpm": 104,
+      "first_beat_ms": 23,
+      "loop_start_s": 0.023,
+      "loop_end_s": 43.869
+    },
+    {
+      "genre": "reggae",
+      "group": "soft",
+      "vocal": true,
+      "file": "audio/gigs/reggae-soft2.mp3",
+      "bpm_prompted": 72,
+      "bpm": 72,
+      "first_beat_ms": 1690,
+      "loop_start_s": 1.69,
+      "loop_end_s": 45.023
+    },
+    {
+      "genre": "reggae",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/reggae-hype2.mp3",
+      "bpm_prompted": 128,
+      "bpm": 128.03,
+      "first_beat_ms": 503,
+      "loop_start_s": 0.503,
+      "loop_end_s": 43.62
+    },
+    {
+      "genre": "reggae",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/reggae-hype3.mp3",
+      "bpm_prompted": 100,
+      "bpm": 100,
+      "first_beat_ms": 23,
+      "loop_start_s": 0.023,
+      "loop_end_s": 43.223
+    },
+    {
+      "genre": "reggae",
+      "group": "anthem",
+      "vocal": true,
+      "file": "audio/gigs/reggae-anthem2.mp3",
+      "bpm_prompted": 80,
+      "bpm": 80.02,
+      "first_beat_ms": 406,
+      "loop_start_s": 0.406,
+      "loop_end_s": 42.398
     }
   ]
 }
