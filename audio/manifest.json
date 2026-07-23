@@ -1285,6 +1285,50 @@
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
       "loop_end_s": 44.778
+    },
+    {
+      "genre": "hiphop",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/hiphop-hype.mp3",
+      "bpm_prompted": 92,
+      "bpm": 92,
+      "first_beat_ms": 10470,
+      "loop_start_s": 10.47,
+      "loop_end_s": 44.383
+    },
+    {
+      "genre": "country",
+      "group": "anthem",
+      "vocal": true,
+      "file": "audio/gigs/country-anthem.mp3",
+      "bpm_prompted": 100,
+      "bpm": 99.98,
+      "first_beat_ms": 23,
+      "loop_start_s": 0.023,
+      "loop_end_s": 43.232
+    },
+    {
+      "genre": "latin",
+      "group": "hype",
+      "vocal": true,
+      "file": "audio/gigs/latin-hype.mp3",
+      "bpm_prompted": 96,
+      "bpm": 96,
+      "first_beat_ms": 6285,
+      "loop_start_s": 6.285,
+      "loop_end_s": 43.785
+    },
+    {
+      "genre": "reggae",
+      "group": "soft",
+      "vocal": true,
+      "file": "audio/gigs/reggae-soft.mp3",
+      "bpm_prompted": 74,
+      "bpm": 74.01,
+      "first_beat_ms": 1252,
+      "loop_start_s": 1.252,
+      "loop_end_s": 43.406
     }
   ]
 }
