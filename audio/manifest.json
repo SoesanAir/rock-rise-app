@@ -39,7 +39,8 @@
       "bpm": 98,
       "first_beat_ms": 7982,
       "loop_start_s": 7.982,
-      "loop_end_s": 44.717
+      "loop_end_s": 44.717,
+      "vocal_ms": 17624
     },
     {
       "genre": "folk",
@@ -52,7 +53,8 @@
       "bpm": 93.96,
       "first_beat_ms": 12144,
       "loop_start_s": 12.144,
-      "loop_end_s": 42.795
+      "loop_end_s": 42.795,
+      "vocal_ms": 12144
     },
     {
       "genre": "folk",
@@ -65,7 +67,8 @@
       "bpm": 103.98,
       "first_beat_ms": 5817,
       "loop_start_s": 5.817,
-      "loop_end_s": 42.747
+      "loop_end_s": 42.747,
+      "vocal_ms": 13607
     },
     {
       "genre": "folk",
@@ -91,7 +94,8 @@
       "bpm": 112,
       "first_beat_ms": 1095,
       "loop_start_s": 1.095,
-      "loop_end_s": 43.952
+      "loop_end_s": 43.952,
+      "vocal_ms": 3437
     },
     {
       "genre": "folk",
@@ -104,7 +108,8 @@
       "bpm": 106,
       "first_beat_ms": 35,
       "loop_start_s": 0.035,
-      "loop_end_s": 43.054
+      "loop_end_s": 43.054,
+      "vocal_ms": 9125
     },
     {
       "genre": "folk",
@@ -117,7 +122,8 @@
       "bpm": 117.98,
       "first_beat_ms": 58,
       "loop_start_s": 0.058,
-      "loop_end_s": 44.813
+      "loop_end_s": 44.813,
+      "vocal_ms": 8081
     },
     {
       "genre": "folk",
@@ -130,7 +136,8 @@
       "bpm": 81.69,
       "first_beat_ms": 1048,
       "loop_start_s": 1.048,
-      "loop_end_s": 42.18
+      "loop_end_s": 42.18,
+      "vocal_ms": 6223
     },
     {
       "genre": "folk",
@@ -143,7 +150,8 @@
       "bpm": 78,
       "first_beat_ms": 35,
       "loop_start_s": 0.035,
-      "loop_end_s": 43.112
+      "loop_end_s": 43.112,
+      "vocal_ms": 35
     },
     {
       "genre": "folk",
@@ -156,7 +164,8 @@
       "bpm": 85.97,
       "first_beat_ms": 46,
       "loop_start_s": 0.046,
-      "loop_end_s": 44.715
+      "loop_end_s": 44.715,
+      "vocal_ms": 46
     },
     {
       "genre": "folk",
@@ -208,7 +217,8 @@
       "bpm": 117.98,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 44.778
+      "loop_end_s": 44.778,
+      "vocal_ms": 23
     },
     {
       "genre": "indie",
@@ -221,7 +231,8 @@
       "bpm": 111.98,
       "first_beat_ms": 4310,
       "loop_start_s": 4.31,
-      "loop_end_s": 42.889
+      "loop_end_s": 42.889,
+      "vocal_ms": 10960
     },
     {
       "genre": "indie",
@@ -234,7 +245,8 @@
       "bpm": 124,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 44.539
+      "loop_end_s": 44.539,
+      "vocal_ms": 8568
     },
     {
       "genre": "indie",
@@ -260,7 +272,8 @@
       "bpm": 132,
       "first_beat_ms": 46,
       "loop_start_s": 0.046,
-      "loop_end_s": 43.683
+      "loop_end_s": 43.683,
+      "vocal_ms": 46
     },
     {
       "genre": "indie",
@@ -273,7 +286,8 @@
       "bpm": 126.03,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 43.824
+      "loop_end_s": 43.824,
+      "vocal_ms": 23
     },
     {
       "genre": "indie",
@@ -286,7 +300,8 @@
       "bpm": 138,
       "first_beat_ms": 35,
       "loop_start_s": 0.035,
-      "loop_end_s": 43.513
+      "loop_end_s": 43.513,
+      "vocal_ms": 7407
     },
     {
       "genre": "indie",
@@ -299,7 +314,8 @@
       "bpm": 91.98,
       "first_beat_ms": 14058,
       "loop_start_s": 14.058,
-      "loop_end_s": 42.76
+      "loop_end_s": 42.76,
+      "vocal_ms": 18739
     },
     {
       "genre": "indie",
@@ -312,7 +328,8 @@
       "bpm": 87.98,
       "first_beat_ms": 13004,
       "loop_start_s": 13.004,
-      "loop_end_s": 43.01
+      "loop_end_s": 43.01,
+      "vocal_ms": 13004
     },
     {
       "genre": "indie",
@@ -325,7 +342,8 @@
       "bpm": 96,
       "first_beat_ms": 9087,
       "loop_start_s": 9.087,
-      "loop_end_s": 44.087
+      "loop_end_s": 44.087,
+      "vocal_ms": 10612
     },
     {
       "genre": "indie",
@@ -377,7 +395,8 @@
       "bpm": 126,
       "first_beat_ms": 7840,
       "loop_start_s": 7.84,
-      "loop_end_s": 44.03
+      "loop_end_s": 44.03,
+      "vocal_ms": 7840
     },
     {
       "genre": "metal",
@@ -390,7 +409,8 @@
       "bpm": 120,
       "first_beat_ms": 1128,
       "loop_start_s": 1.128,
-      "loop_end_s": 43.128
+      "loop_end_s": 43.128,
+      "vocal_ms": 1128
     },
     {
       "genre": "metal",
@@ -403,7 +423,8 @@
       "bpm": 129.99,
       "first_beat_ms": 1791,
       "loop_start_s": 1.791,
-      "loop_end_s": 44.255
+      "loop_end_s": 44.255,
+      "vocal_ms": 1791
     },
     {
       "genre": "metal",
@@ -429,7 +450,8 @@
       "bpm": 141.97,
       "first_beat_ms": 232,
       "loop_start_s": 0.232,
-      "loop_end_s": 44.185
+      "loop_end_s": 44.185,
+      "vocal_ms": 232
     },
     {
       "genre": "metal",
@@ -442,7 +464,8 @@
       "bpm": 147.91,
       "first_beat_ms": 661,
       "loop_start_s": 0.661,
-      "loop_end_s": 44.471
+      "loop_end_s": 44.471,
+      "vocal_ms": 2090
     },
     {
       "genre": "metal",
@@ -455,7 +478,8 @@
       "bpm": 135.05,
       "first_beat_ms": 7143,
       "loop_start_s": 7.143,
-      "loop_end_s": 44.463
+      "loop_end_s": 44.463,
+      "vocal_ms": 7143
     },
     {
       "genre": "metal",
@@ -468,7 +492,8 @@
       "bpm": 88.02,
       "first_beat_ms": 705,
       "loop_start_s": 0.705,
-      "loop_end_s": 44.333
+      "loop_end_s": 44.333,
+      "vocal_ms": 705
     },
     {
       "genre": "metal",
@@ -481,7 +506,8 @@
       "bpm": 84.03,
       "first_beat_ms": 11842,
       "loop_start_s": 11.842,
-      "loop_end_s": 43.258
+      "loop_end_s": 43.258,
+      "vocal_ms": 11842
     },
     {
       "genre": "metal",
@@ -494,7 +520,8 @@
       "bpm": 92,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 44.371
+      "loop_end_s": 44.371,
+      "vocal_ms": 23
     },
     {
       "genre": "metal",
@@ -546,7 +573,8 @@
       "bpm": 122,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 43.302
+      "loop_end_s": 43.302,
+      "vocal_ms": 23
     },
     {
       "genre": "none",
@@ -559,7 +587,8 @@
       "bpm": 116,
       "first_beat_ms": 35,
       "loop_start_s": 0.035,
-      "loop_end_s": 43.483
+      "loop_end_s": 43.483,
+      "vocal_ms": 35
     },
     {
       "genre": "none",
@@ -572,7 +601,8 @@
       "bpm": 128,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 45.023
+      "loop_end_s": 45.023,
+      "vocal_ms": 23
     },
     {
       "genre": "none",
@@ -598,7 +628,8 @@
       "bpm": 136,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 44.141
+      "loop_end_s": 44.141,
+      "vocal_ms": 23
     },
     {
       "genre": "none",
@@ -611,7 +642,8 @@
       "bpm": 130.03,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 44.322
+      "loop_end_s": 44.322,
+      "vocal_ms": 23
     },
     {
       "genre": "none",
@@ -624,7 +656,8 @@
       "bpm": 141.97,
       "first_beat_ms": 446,
       "loop_start_s": 0.446,
-      "loop_end_s": 44.398
+      "loop_end_s": 44.398,
+      "vocal_ms": 446
     },
     {
       "genre": "none",
@@ -637,7 +670,8 @@
       "bpm": 93.96,
       "first_beat_ms": 8963,
       "loop_start_s": 8.963,
-      "loop_end_s": 44.722
+      "loop_end_s": 44.722,
+      "vocal_ms": 8963
     },
     {
       "genre": "none",
@@ -650,7 +684,8 @@
       "bpm": 90.04,
       "first_beat_ms": 1960,
       "loop_start_s": 1.96,
-      "loop_end_s": 44.609
+      "loop_end_s": 44.609,
+      "vocal_ms": 1960
     },
     {
       "genre": "none",
@@ -663,7 +698,8 @@
       "bpm": 97.94,
       "first_beat_ms": 17165,
       "loop_start_s": 17.165,
-      "loop_end_s": 44.12
+      "loop_end_s": 44.12,
+      "vocal_ms": 17165
     },
     {
       "genre": "none",
@@ -715,7 +751,8 @@
       "bpm": 115.98,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 43.48
+      "loop_end_s": 43.48,
+      "vocal_ms": 8499
     },
     {
       "genre": "pop",
@@ -728,7 +765,8 @@
       "bpm": 109.96,
       "first_beat_ms": 35,
       "loop_start_s": 0.035,
-      "loop_end_s": 43.689
+      "loop_end_s": 43.689,
+      "vocal_ms": 1393
     },
     {
       "genre": "pop",
@@ -741,7 +779,8 @@
       "bpm": 122.02,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 43.293
+      "loop_end_s": 43.293,
+      "vocal_ms": 8615
     },
     {
       "genre": "pop",
@@ -767,7 +806,8 @@
       "bpm": 126.05,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 43.815
+      "loop_end_s": 43.815,
+      "vocal_ms": 7825
     },
     {
       "genre": "pop",
@@ -780,7 +820,8 @@
       "bpm": 119.9,
       "first_beat_ms": 512,
       "loop_start_s": 0.512,
-      "loop_end_s": 44.547
+      "loop_end_s": 44.547,
+      "vocal_ms": 8499
     },
     {
       "genre": "pop",
@@ -793,7 +834,8 @@
       "bpm": 132.03,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 43.651
+      "loop_end_s": 43.651,
+      "vocal_ms": 7570
     },
     {
       "genre": "pop",
@@ -806,7 +848,8 @@
       "bpm": 90,
       "first_beat_ms": 13357,
       "loop_start_s": 13.357,
-      "loop_end_s": 42.69
+      "loop_end_s": 42.69,
+      "vocal_ms": 13357
     },
     {
       "genre": "pop",
@@ -819,7 +862,8 @@
       "bpm": 86.02,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 44.665
+      "loop_end_s": 44.665,
+      "vocal_ms": 11262
     },
     {
       "genre": "pop",
@@ -832,7 +876,8 @@
       "bpm": 94.02,
       "first_beat_ms": 2588,
       "loop_start_s": 2.588,
-      "loop_end_s": 43.43
+      "loop_end_s": 43.43,
+      "vocal_ms": 10495
     },
     {
       "genre": "pop",
@@ -884,7 +929,8 @@
       "bpm": 150,
       "first_beat_ms": 1421,
       "loop_start_s": 1.421,
-      "loop_end_s": 44.621
+      "loop_end_s": 44.621,
+      "vocal_ms": 1421
     },
     {
       "genre": "punk",
@@ -897,7 +943,8 @@
       "bpm": 144,
       "first_beat_ms": 8368,
       "loop_start_s": 8.368,
-      "loop_end_s": 43.368
+      "loop_end_s": 43.368,
+      "vocal_ms": 8368
     },
     {
       "genre": "punk",
@@ -910,7 +957,8 @@
       "bpm": 156,
       "first_beat_ms": 3682,
       "loop_start_s": 3.682,
-      "loop_end_s": 43.682
+      "loop_end_s": 43.682,
+      "vocal_ms": 3682
     },
     {
       "genre": "punk",
@@ -936,7 +984,8 @@
       "bpm": 172,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 44.674
+      "loop_end_s": 44.674,
+      "vocal_ms": 7036
     },
     {
       "genre": "punk",
@@ -949,7 +998,8 @@
       "bpm": 178,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 44.518
+      "loop_end_s": 44.518,
+      "vocal_ms": 6060
     },
     {
       "genre": "punk",
@@ -962,7 +1012,8 @@
       "bpm": 165,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 43.659
+      "loop_end_s": 43.659,
+      "vocal_ms": 6827
     },
     {
       "genre": "punk",
@@ -975,7 +1026,8 @@
       "bpm": 96,
       "first_beat_ms": 10023,
       "loop_start_s": 10.023,
-      "loop_end_s": 45.023
+      "loop_end_s": 45.023,
+      "vocal_ms": 10023
     },
     {
       "genre": "punk",
@@ -988,7 +1040,8 @@
       "bpm": 92,
       "first_beat_ms": 348,
       "loop_start_s": 0.348,
-      "loop_end_s": 44.696
+      "loop_end_s": 44.696,
+      "vocal_ms": 348
     },
     {
       "genre": "punk",
@@ -1001,7 +1054,8 @@
       "bpm": 100,
       "first_beat_ms": 2423,
       "loop_start_s": 2.423,
-      "loop_end_s": 43.223
+      "loop_end_s": 43.223,
+      "vocal_ms": 12446
     },
     {
       "genre": "punk",
@@ -1053,7 +1107,8 @@
       "bpm": 104.02,
       "first_beat_ms": 2354,
       "loop_start_s": 2.354,
-      "loop_end_s": 43.884
+      "loop_end_s": 43.884,
+      "vocal_ms": 11889
     },
     {
       "genre": "synth",
@@ -1066,7 +1121,8 @@
       "bpm": 97.98,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 44.114
+      "loop_end_s": 44.114,
+      "vocal_ms": 10588
     },
     {
       "genre": "synth",
@@ -1079,7 +1135,8 @@
       "bpm": 109.93,
       "first_beat_ms": 557,
       "loop_start_s": 0.557,
-      "loop_end_s": 44.22
+      "loop_end_s": 44.22,
+      "vocal_ms": 8499
     },
     {
       "genre": "synth",
@@ -1105,7 +1162,8 @@
       "bpm": 118,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 44.769
+      "loop_end_s": 44.769,
+      "vocal_ms": 23
     },
     {
       "genre": "synth",
@@ -1118,7 +1176,8 @@
       "bpm": 112.02,
       "first_beat_ms": 46,
       "loop_start_s": 0.046,
-      "loop_end_s": 42.895
+      "loop_end_s": 42.895,
+      "vocal_ms": 46
     },
     {
       "genre": "synth",
@@ -1131,7 +1190,8 @@
       "bpm": 124,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 44.539
+      "loop_end_s": 44.539,
+      "vocal_ms": 23
     },
     {
       "genre": "synth",
@@ -1144,7 +1204,8 @@
       "bpm": 85,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 42.376
+      "loop_end_s": 42.376,
+      "vocal_ms": 975
     },
     {
       "genre": "synth",
@@ -1157,7 +1218,8 @@
       "bpm": 80,
       "first_beat_ms": 12023,
       "loop_start_s": 12.023,
-      "loop_end_s": 45.023
+      "loop_end_s": 45.023,
+      "vocal_ms": 12023
     },
     {
       "genre": "synth",
@@ -1170,7 +1232,8 @@
       "bpm": 90,
       "first_beat_ms": 5357,
       "loop_start_s": 5.357,
-      "loop_end_s": 42.69
+      "loop_end_s": 42.69,
+      "vocal_ms": 10913
     },
     {
       "genre": "synth",
@@ -1251,7 +1314,8 @@
       "bpm": 129.95,
       "first_beat_ms": 279,
       "loop_start_s": 0.279,
-      "loop_end_s": 44.604
+      "loop_end_s": 44.604,
+      "vocal_ms": 6502
     },
     {
       "genre": "jazz",
@@ -1262,7 +1326,8 @@
       "bpm": 109.98,
       "first_beat_ms": 58,
       "loop_start_s": 0.058,
-      "loop_end_s": 43.703
+      "loop_end_s": 43.703,
+      "vocal_ms": 58
     },
     {
       "genre": "jazz",
@@ -1273,7 +1338,8 @@
       "bpm": 95.98,
       "first_beat_ms": 46,
       "loop_start_s": 0.046,
-      "loop_end_s": 42.555
+      "loop_end_s": 42.555,
+      "vocal_ms": 10426
     },
     {
       "genre": "jazz",
@@ -1284,7 +1350,8 @@
       "bpm": 117.98,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 44.778
+      "loop_end_s": 44.778,
+      "vocal_ms": 23
     },
     {
       "genre": "hiphop",
@@ -1295,7 +1362,8 @@
       "bpm": 92,
       "first_beat_ms": 10470,
       "loop_start_s": 10.47,
-      "loop_end_s": 44.383
+      "loop_end_s": 44.383,
+      "vocal_ms": 15139
     },
     {
       "genre": "country",
@@ -1306,7 +1374,8 @@
       "bpm": 100,
       "first_beat_ms": 35,
       "loop_start_s": 0.035,
-      "loop_end_s": 43.235
+      "loop_end_s": 43.235,
+      "vocal_ms": 1068
     },
     {
       "genre": "latin",
@@ -1317,7 +1386,8 @@
       "bpm": 96,
       "first_beat_ms": 6285,
       "loop_start_s": 6.285,
-      "loop_end_s": 43.785
+      "loop_end_s": 43.785,
+      "vocal_ms": 10797
     },
     {
       "genre": "reggae",
@@ -1328,7 +1398,8 @@
       "bpm": 74.01,
       "first_beat_ms": 1252,
       "loop_start_s": 1.252,
-      "loop_end_s": 43.406
+      "loop_end_s": 43.406,
+      "vocal_ms": 1252
     },
     {
       "genre": "hiphop",
@@ -1339,7 +1410,8 @@
       "bpm": 84,
       "first_beat_ms": 738,
       "loop_start_s": 0.738,
-      "loop_end_s": 43.595
+      "loop_end_s": 43.595,
+      "vocal_ms": 6014
     },
     {
       "genre": "hiphop",
@@ -1350,7 +1422,8 @@
       "bpm": 90,
       "first_beat_ms": 8023,
       "loop_start_s": 8.023,
-      "loop_end_s": 42.69
+      "loop_end_s": 42.69,
+      "vocal_ms": 10728
     },
     {
       "genre": "hiphop",
@@ -1383,7 +1456,8 @@
       "bpm": 72,
       "first_beat_ms": 46,
       "loop_start_s": 0.046,
-      "loop_end_s": 43.38
+      "loop_end_s": 43.38,
+      "vocal_ms": 46
     },
     {
       "genre": "country",
@@ -1394,7 +1468,8 @@
       "bpm": 119.98,
       "first_beat_ms": 523,
       "loop_start_s": 0.523,
-      "loop_end_s": 44.532
+      "loop_end_s": 44.532,
+      "vocal_ms": 9404
     },
     {
       "genre": "country",
@@ -1427,7 +1502,8 @@
       "bpm": 76,
       "first_beat_ms": 4029,
       "loop_start_s": 4.029,
-      "loop_end_s": 41.923
+      "loop_end_s": 41.923,
+      "vocal_ms": 6989
     },
     {
       "genre": "latin",
@@ -1438,7 +1514,8 @@
       "bpm": 100,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 43.223
+      "loop_end_s": 43.223,
+      "vocal_ms": 5735
     },
     {
       "genre": "latin",
@@ -1471,7 +1548,8 @@
       "bpm": 130,
       "first_beat_ms": 485,
       "loop_start_s": 0.485,
-      "loop_end_s": 44.792
+      "loop_end_s": 44.792,
+      "vocal_ms": 485
     },
     {
       "genre": "reggae",
@@ -1482,7 +1560,8 @@
       "bpm": 78.06,
       "first_beat_ms": 6976,
       "loop_start_s": 6.976,
-      "loop_end_s": 43.869
+      "loop_end_s": 43.869,
+      "vocal_ms": 13375
     },
     {
       "genre": "reggae",
@@ -1515,7 +1594,8 @@
       "bpm": 92,
       "first_beat_ms": 35,
       "loop_start_s": 0.035,
-      "loop_end_s": 44.383
+      "loop_end_s": 44.383,
+      "vocal_ms": 5573
     },
     {
       "genre": "jazz",
@@ -1526,7 +1606,8 @@
       "bpm": 138,
       "first_beat_ms": 974,
       "loop_start_s": 0.974,
-      "loop_end_s": 44.452
+      "loop_end_s": 44.452,
+      "vocal_ms": 7245
     },
     {
       "genre": "jazz",
@@ -1537,7 +1618,8 @@
       "bpm": 149.97,
       "first_beat_ms": 17650,
       "loop_start_s": 17.65,
-      "loop_end_s": 44.855
+      "loop_end_s": 44.855,
+      "vocal_ms": 17650
     },
     {
       "genre": "jazz",
@@ -1548,7 +1630,8 @@
       "bpm": 120.02,
       "first_beat_ms": 279,
       "loop_start_s": 0.279,
-      "loop_end_s": 44.27
+      "loop_end_s": 44.27,
+      "vocal_ms": 4063
     },
     {
       "genre": "jazz",
@@ -1570,7 +1653,8 @@
       "bpm": 79.98,
       "first_beat_ms": 773,
       "loop_start_s": 0.773,
-      "loop_end_s": 42.782
+      "loop_end_s": 42.782,
+      "vocal_ms": 6153
     },
     {
       "genre": "hiphop",
@@ -1581,7 +1665,8 @@
       "bpm": 96,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 45.023
+      "loop_end_s": 45.023,
+      "vocal_ms": 23
     },
     {
       "genre": "hiphop",
@@ -1592,7 +1677,8 @@
       "bpm": 99.98,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 43.232
+      "loop_end_s": 43.232,
+      "vocal_ms": 11146
     },
     {
       "genre": "hiphop",
@@ -1603,7 +1689,8 @@
       "bpm": 87.98,
       "first_beat_ms": 372,
       "loop_start_s": 0.372,
-      "loop_end_s": 44.017
+      "loop_end_s": 44.017,
+      "vocal_ms": 372
     },
     {
       "genre": "country",
@@ -1614,7 +1701,8 @@
       "bpm": 68,
       "first_beat_ms": 8893,
       "loop_start_s": 8.893,
-      "loop_end_s": 44.187
+      "loop_end_s": 44.187,
+      "vocal_ms": 16393
     },
     {
       "genre": "country",
@@ -1625,7 +1713,8 @@
       "bpm": 128.03,
       "first_beat_ms": 503,
       "loop_start_s": 0.503,
-      "loop_end_s": 43.62
+      "loop_end_s": 43.62,
+      "vocal_ms": 8684
     },
     {
       "genre": "country",
@@ -1636,7 +1725,8 @@
       "bpm": 115,
       "first_beat_ms": 1090,
       "loop_start_s": 1.09,
-      "loop_end_s": 44.915
+      "loop_end_s": 44.915,
+      "vocal_ms": 1090
     },
     {
       "genre": "country",
@@ -1647,7 +1737,8 @@
       "bpm": 96,
       "first_beat_ms": 464,
       "loop_start_s": 0.464,
-      "loop_end_s": 42.964
+      "loop_end_s": 42.964,
+      "vocal_ms": 464
     },
     {
       "genre": "latin",
@@ -1658,7 +1749,8 @@
       "bpm": 79.98,
       "first_beat_ms": 773,
       "loop_start_s": 0.773,
-      "loop_end_s": 42.782
+      "loop_end_s": 42.782,
+      "vocal_ms": 4017
     },
     {
       "genre": "latin",
@@ -1669,7 +1761,8 @@
       "bpm": 92.02,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 44.362
+      "loop_end_s": 44.362,
+      "vocal_ms": 23
     },
     {
       "genre": "latin",
@@ -1680,7 +1773,8 @@
       "bpm": 100.02,
       "first_beat_ms": 325,
       "loop_start_s": 0.325,
-      "loop_end_s": 43.516
+      "loop_end_s": 43.516,
+      "vocal_ms": 4807
     },
     {
       "genre": "latin",
@@ -1691,7 +1785,8 @@
       "bpm": 104,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 43.869
+      "loop_end_s": 43.869,
+      "vocal_ms": 23
     },
     {
       "genre": "reggae",
@@ -1702,7 +1797,8 @@
       "bpm": 72,
       "first_beat_ms": 1690,
       "loop_start_s": 1.69,
-      "loop_end_s": 45.023
+      "loop_end_s": 45.023,
+      "vocal_ms": 4226
     },
     {
       "genre": "reggae",
@@ -1713,7 +1809,8 @@
       "bpm": 128.03,
       "first_beat_ms": 503,
       "loop_start_s": 0.503,
-      "loop_end_s": 43.62
+      "loop_end_s": 43.62,
+      "vocal_ms": 503
     },
     {
       "genre": "reggae",
@@ -1724,7 +1821,8 @@
       "bpm": 100,
       "first_beat_ms": 23,
       "loop_start_s": 0.023,
-      "loop_end_s": 43.223
+      "loop_end_s": 43.223,
+      "vocal_ms": 23
     },
     {
       "genre": "reggae",
@@ -1735,7 +1833,8 @@
       "bpm": 80.02,
       "first_beat_ms": 406,
       "loop_start_s": 0.406,
-      "loop_end_s": 42.398
+      "loop_end_s": 42.398,
+      "vocal_ms": 6850
     }
   ]
 }
